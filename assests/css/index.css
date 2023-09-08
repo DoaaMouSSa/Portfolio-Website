@@ -1,8 +1,11 @@
 body{
     background-color: white;
     line-height: 30px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
 
+}
+.text-shadow{
+    text-shadow: 2px 1px wheat;
 }
 .brand-text{
     color: #f6b128;
